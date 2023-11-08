@@ -1,3 +1,5 @@
+//Program to Add Two Numbers
+
 let num = 95;
 let sum= 0;
 let rem;
