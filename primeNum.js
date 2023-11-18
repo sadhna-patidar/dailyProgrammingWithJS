@@ -25,6 +25,6 @@ function test_prime(n)
 
 console.log(test_prime(37));
 console.log(test_prime(34));
-console.log(test_prime(20));
+console.log(test_prime(47));
 console.log(test_prime(13));
 console.log(test_prime(55));
