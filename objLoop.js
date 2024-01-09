@@ -1,4 +1,4 @@
-
+//Program to Loop Through an Object
 //for...in loop:
 const myObject = {
     name: 'Sadhna',
