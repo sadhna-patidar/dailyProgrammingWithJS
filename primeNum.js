@@ -1,4 +1,4 @@
-Program to Check Prime Number
+//Program to Check Prime Number
 
 function test_prime(n)
 {
