@@ -5,7 +5,7 @@ function sortWordsAlphabetically(sentence) {
     // Sort the array of words in alphabetical order
     const sortedWords = words.sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
 
-     Join the sorted words back into a sentence
+     //Join the sorted words back into a sentence
     const sortedSentence = sortedWords.join(' ');
 
     return sortedSentence;
