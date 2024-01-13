@@ -1,4 +1,4 @@
-//program to convert Celsius to Fahrenheit
+program to convert Celsius to Fahrenheit
 
 var cel = 60
 
